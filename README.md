@@ -43,15 +43,15 @@ This folder contains CAD files designed to adapt multiple grippers and other acc
 
 ## Team Members
 
-Carlos Martínez García - A01351950
-Bennet Ávila Bastián - A01275614		
-Jesús Antonio López Malacón - A01742257		              
-Juan Alberto Moreno Cantú - A00833357
-Jorge Eduardo Medina Carvajal  - A00834864                  	
-Hiram David Arguelles Ramirez -A0028630
-Alberto Rojas Casillas - A01275686				
-Carlos Eric González Domínguez - A00834487
-Diego Israel Miranda Valle - A01277295			
-Eliseo Antonio Valdés Castillo - A01412733
-José Fernando Martínez García - A00835291
+- Carlos Martínez García - A01351950
+- Bennet Ávila Bastián - A01275614		
+- Jesús Antonio López Malacón - A01742257		              
+- Juan Alberto Moreno Cantú - A00833357
+- Jorge Eduardo Medina Carvajal  - A00834864                  	
+- Hiram David Arguelles Ramirez -A0028630
+- Alberto Rojas Casillas - A01275686				
+- Carlos Eric González Domínguez - A00834487
+- Diego Israel Miranda Valle - A01277295			
+- Eliseo Antonio Valdés Castillo - A01412733
+- José Fernando Martínez García - A00835291
 
